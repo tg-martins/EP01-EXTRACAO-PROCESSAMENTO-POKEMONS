@@ -47,7 +47,7 @@ Execute o script para calcular as métricas dos pokemons utilizando o csv normal
 
 ## Arquitetura
 
-![App Screenshot](https://github.com/tg-martins/EP01-EXTRACAO-PROCESSAMENTO-POKEMONS/architecture.png)
+![Arquitetura](https://github.com/tg-martins/EP01-EXTRACAO-PROCESSAMENTO-POKEMONS/blob/main/architecture.png)
 
 
 ## Referência
